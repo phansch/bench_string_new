@@ -1,0 +1,6 @@
+[package]
+name = "bench_string_new"
+version = "0.1.0"
+authors = ["Philipp Hansch <dev@phansch.net>"]
+
+[dependencies]
